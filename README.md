@@ -1,4 +1,4 @@
-[v0.0.3](https://github.com/littleflute/great-course8/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/great-course8/edit/master/README.md)
 
 [The Everyday Gourmet
 Rediscovering the Lost Art of Cooking
@@ -25,3 +25,5 @@ DVD - 2012]
 [https://littleflute.github.io/great-course7](https://littleflute.github.io/great-course7)
 
 [https://littleflute.github.io/great-course8](https://littleflute.github.io/great-course8)
+
+[https://littleflute.github.io/great-course9](https://littleflute.github.io/great-course9)
